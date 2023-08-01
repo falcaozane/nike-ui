@@ -2,7 +2,7 @@
 
 const Hero = () => {
   return (
-    <main className="hero flex lg:max-w-7xl mx-auto mt-5 items-center px-2">
+    <main className="hero flex lg:max-w-7xl mx-auto mt-5 items-center px-5">
         <div className="hero-content items-center ml-0 mr-auto">
             <h1 className="text-7xl font-extrabold max-w-lg pr-10 mb-10">YOUR FEET DESERVE THE BEST</h1>
             <p className="font-semibold text-slate-500 max-w-sm mb-5">YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.
