@@ -3,7 +3,7 @@
 export const Navbar = () => {
   return (
     <div className='mx-auto my-4 items-center'>
-        <nav className='flex justify-between h-[72px] max-w-7xl mx-auto'>
+        <nav className='flex justify-between h-[72px] lg:max-w-7xl mx-auto'>
             <div className='logo mt-2'>
                 <img src='images/brand_logo.png' alt='Nike'/>
             </div>
